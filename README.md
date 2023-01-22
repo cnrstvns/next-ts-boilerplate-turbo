@@ -15,6 +15,8 @@ ESLint with:
 - Prettier plugin
 
 <br />
-Prettier
+Prettier with:
+
+- TailwindCSS Plugin
 
 ### Enjoy!
