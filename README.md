@@ -1,4 +1,4 @@
-## ts-eslint-prettier-config-turbo
+## next-ts-boilerplate-turbo
 
 This is a Turborepo to demonstrate the boilerplate associated with linting and formatting a monorepo with multiple Typescript applications.
 
